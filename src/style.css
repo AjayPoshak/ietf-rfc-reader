@@ -1,0 +1,34 @@
+html {
+  max-width: 80ch;
+  padding: 3em 1em;
+  line-height: 1.75;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.dark, .dark #toc {
+  color: #fff !important;
+  background-color: #1d2432;
+}
+
+.dark .docinfo, .dark .document-information, .dark caption, .dark th, .dark td, .dark code, .xml2rfc.dark pre {
+  background-color: rgb(5, 12, 27) !important;
+}
+
+a {
+  color: #47c3e9 !important;
+}
+
+pre {
+  font-family: sans-serif;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: sans-serif !important;
+  margin: 3em 0 1em;
+}
