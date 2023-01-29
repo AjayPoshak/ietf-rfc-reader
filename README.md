@@ -10,6 +10,12 @@ This chrome extension aims to simplify the RFC reading experience on [https://ww
 - Centrally aligned content
 - Changes the font to `Sans Serif`
 
+## Screenshot
+
+<img src="public/images/image_dark_mode.png">
+
+<img src="public/images/image_light_mode.png">
+
 ## Install
 
 [**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
